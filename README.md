@@ -6,6 +6,7 @@ I'm a creative Junior Front-End Developer. Have a solid understanding of HTML5/C
 
 [![Static Badge](https://img.shields.io/badge/Iryna_Kryvokhyzha-3399FF?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/iryna-kryvokhyzha-373506282/)](https://www.linkedin.com/in/iryna-kryvokhyzha-373506282/)
 [![Static Badge](https://img.shields.io/badge/Iryna_Kryvokhyzha-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:irynakryvokhyzha@gmail.com)](mailto:irynakryvokhyzha@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Iryna_Kryvokhyzha-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/IrynaKryvokhyzha)](https://t.me/IrynaKryvokhyzha)
 
 
 
