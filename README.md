@@ -17,6 +17,10 @@ I'm a creative Junior Front-End Developer. Have a solid understanding of HTML5/C
 ![Static Badge](https://img.shields.io/badge/Sass-ff99cc?style=for-the-badge&logo=Sass&logoColor=ff99cc&labelColor=black%20&color=ff99cc)
 ![Static Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFCA28&labelColor=black%20)
 
+<br/>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact)
 
 
 
