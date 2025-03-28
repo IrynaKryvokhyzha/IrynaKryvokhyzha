@@ -11,6 +11,7 @@ I'm a creative Front-End Developer. Have a solid understanding of HTML5/CSS3, Fl
 ### Top Technologies
 
 ![Static Badge](https://img.shields.io/badge/VUE.JS-42b883?style=for-the-badge&logo=Vue.js&logoColor=42b883&labelColor=black)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-FFE604?style=for-the-badge&logo=JavaScript&logoColor=FFE604&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML5-FF8000?style=for-the-badge&logo=HTML5&logoColor=FF8000&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS3-3B72F2?style=for-the-badge&logo=CSS3&logoColor=3B72F2&labelColor=black%20)
