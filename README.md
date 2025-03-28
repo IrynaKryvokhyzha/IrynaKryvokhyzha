@@ -16,6 +16,10 @@ I'm a creative Front-End Developer. Have a solid understanding of HTML5/CSS3, Fl
 ![Static Badge](https://img.shields.io/badge/CSS3-3B72F2?style=for-the-badge&logo=CSS3&logoColor=3B72F2&labelColor=black%20)
 ![Static Badge](https://img.shields.io/badge/Sass-ff99cc?style=for-the-badge&logo=Sass&logoColor=ff99cc&labelColor=black%20&color=ff99cc)
 ![Static Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFCA28&labelColor=black%20)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+
+
 
 <br/>
 <br/>
