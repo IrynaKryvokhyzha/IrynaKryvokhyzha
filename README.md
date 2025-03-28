@@ -27,6 +27,10 @@ I'm a creative Front-End Developer. Have a solid understanding of HTML5/CSS3, Fl
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact&hide=html,css&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact&hide=html,css&bg_color=000000&title_color=00dc82&text_color=ffffff&icon_color=00dc82)
+
+
 
 
 
