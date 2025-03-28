@@ -1,6 +1,6 @@
 ### Hi, I'm Iryna 👋
 
-I'm a creative Front-End Developer. Have a solid understanding of HTML5/CSS3, Flexbox/Grid positioning, and responsive design principles. I built multiple projects from scratch using the technologies listed below including JavaScript, and the Vue.js framework. Have a strong problem-solving and analytical skills. Excellent communication and teamwork abilities. Self-motivated with a strong desire to learn and grow as a developer.
+I'm a creative Front-End Developer. Proficient in crafting, deploying, and optimizing web applications using a diverse tech stack, including JavaScript, Vue.js, Nuxt.js, and Node.js. Passionate about seeking new challenges to refine and expand my skill set continually. Self-motivated with a strong desire to learn and grow as a developer.
 
 📫 Reach me out!
 
@@ -26,9 +26,8 @@ I'm a creative Front-End Developer. Have a solid understanding of HTML5/CSS3, Fl
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact&hide=html,css&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact&hide=html,css&bg_color=000000&title_color=00dc82&text_color=ffffff&icon_color=00dc82)
+
 
 
 
