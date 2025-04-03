@@ -26,7 +26,7 @@ I'm a creative Front-End Developer. Proficient in crafting, deploying, and optim
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKryvokhyzha&layout=compact&hide=html,css&theme=tokyonight)
 
 
 
